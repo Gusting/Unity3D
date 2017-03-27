@@ -1,0 +1,62 @@
+Initialize engine version: 5.4.3f1 (01f4c123905a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity\study self\PlaneGame\飞机大战4_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity\study self\PlaneGame\飞机大战4_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity\study self\PlaneGame\飞机大战4_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity\study self\PlaneGame\飞机大战4_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity\study self\PlaneGame\飞机大战4_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity\study self\PlaneGame\飞机大战4_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity\study self\PlaneGame\飞机大战4_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity\study self\PlaneGame\飞机大战4_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.363 seconds
+Platform assembly: D:\Unity\study self\PlaneGame\飞机大战4_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity\study self\PlaneGame\飞机大战4_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.346370 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2cbc -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.504002 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 314.
+Total: 0.276938 ms (FindLiveObjects: 0.024493 ms CreateObjectMapping: 0.025679 ms MarkObjects: 0.216888 ms  DeleteObjects: 0.009086 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.598913 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 314.
+Total: 0.282074 ms (FindLiveObjects: 0.022518 ms CreateObjectMapping: 0.019753 ms MarkObjects: 0.228740 ms  DeleteObjects: 0.010271 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.602469 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 314.
+Total: 0.272592 ms (FindLiveObjects: 0.033975 ms CreateObjectMapping: 0.015407 ms MarkObjects: 0.214123 ms  DeleteObjects: 0.008691 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.642765 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 314.
+Total: 0.301432 ms (FindLiveObjects: 0.024098 ms CreateObjectMapping: 0.019358 ms MarkObjects: 0.247703 ms  DeleteObjects: 0.009481 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.463802 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 314.
+Total: 0.290370 ms (FindLiveObjects: 0.025283 ms CreateObjectMapping: 0.019358 ms MarkObjects: 0.235456 ms  DeleteObjects: 0.009086 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.463012 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 314.
+Total: 0.270222 ms (FindLiveObjects: 0.023308 ms CreateObjectMapping: 0.020148 ms MarkObjects: 0.216493 ms  DeleteObjects: 0.009086 ms)
+

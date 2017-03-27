@@ -1,0 +1,47 @@
+Initialize engine version: 5.4.3f1 (01f4c123905a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity\study self\PlaneGame\飞机大战_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity\study self\PlaneGame\飞机大战_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity\study self\PlaneGame\飞机大战_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity\study self\PlaneGame\飞机大战_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity\study self\PlaneGame\飞机大战_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity\study self\PlaneGame\飞机大战_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity\study self\PlaneGame\飞机大战_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity\study self\PlaneGame\飞机大战_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity\study self\PlaneGame\飞机大战_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Unity\study self\PlaneGame\飞机大战_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.050 seconds
+Platform assembly: D:\Unity\study self\PlaneGame\飞机大战_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity\study self\PlaneGame\飞机大战_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 3.110313 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1f94 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.130755 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 315.
+Total: 0.237826 ms (FindLiveObjects: 0.019357 ms CreateObjectMapping: 0.019357 ms MarkObjects: 0.189629 ms  DeleteObjects: 0.008691 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.584689 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 315.
+Total: 0.309332 ms (FindLiveObjects: 0.031999 ms CreateObjectMapping: 0.028444 ms MarkObjects: 0.238221 ms  DeleteObjects: 0.009876 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.605628 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 315.
+Total: 0.242962 ms (FindLiveObjects: 0.020148 ms CreateObjectMapping: 0.024493 ms MarkObjects: 0.189234 ms  DeleteObjects: 0.008691 ms)
+
